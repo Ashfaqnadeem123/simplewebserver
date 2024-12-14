@@ -82,7 +82,8 @@ httpd.serve_forever()
 
 ## OUTPUT:
 ![Screenshot 2024-12-14 102826](https://github.com/user-attachments/assets/3e7f915c-b6af-4bfd-a204-76d1977fef5e)
-![Uploading Screenshot 2024-12-14 103017.png…]()
+![Screenshot 2024-12-14 103017](https://github.com/user-attachments/assets/0811ed1b-75f7-4197-965b-b3f0b76479d7)
+
 
 
 
